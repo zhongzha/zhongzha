@@ -1,6 +1,6 @@
 
 ## Hi, I'm Samson ✌
-- 👨‍💼 Product Manager in the Making
+- 👨‍💼 **Product Manager** in the making
 - 🎓 Graduate Student @ Carnegie Mellon University
 - 💼 Currently interning at Nationwide Mutual as an Analytic Product Owner
 <p align="right">
